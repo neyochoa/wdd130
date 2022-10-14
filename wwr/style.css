@@ -1,6 +1,6 @@
 h1 {
     color: orange;
-}
+} 
 body {
     max-width: 1600px;
     margin: 0 auto;
@@ -26,7 +26,7 @@ nav a:hover {
 }
 nav a {
     text-align: center;
-    color: #fcfbfb;
+    color: #721818;
     text-decoration: none;
 }    
 footer p {
@@ -35,3 +35,7 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }
+div {
+    max-width: 500px;
+    height: 100px;
+    background-color: powderblue;
