@@ -1,34 +1,29 @@
+
 h1 {
     color: orange;
 } 
-body {
-    max-width: 1600px;
-    margin: 0 auto;
-    padding: 4em;
-    font-size: 18px;
-    text-align: center;
-}
+
 #background {
     height: 725px;
 }
 body {
-    background-color: #6de4e6; 
+    background-color: #fcfbfb; 
 }
 header {
-    background-color:rgba(42, 151, 218, 0.7);
+    background-color:rgba(20,30,13, .7);
 }
 nav a:hover {
     background-color: black;
-    color: #e69f42;
+    color: #d9c2a3;
 }
 .icon {
     width: 80px;
 }
 nav a {
-    text-align: left;
-    color: #5f5212;
+    text-align: center;
+    color: #fcfbfb;
     text-decoration: none;
-}    
+}     
 footer p {
     font-size: 1.2em;
 }    
@@ -36,6 +31,6 @@ footer p a:hover {
     text-decoration: underline;
 }
 div {
-    max-width: 500px;
-    height: 100px;
+    max-width: 725px;
+    height: 180px;
     background-color: powderblue;
