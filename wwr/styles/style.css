@@ -30,7 +30,3 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }
-div {
-    max-width: 725px;
-    height: 180px;
-    background-color: powderblue;
