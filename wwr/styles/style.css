@@ -16,7 +16,7 @@ nav a:hover {
     background-color: black;
     color: #d9c2a3;
 }
-.icon {
+img id {
     width: 80px;
 }
 nav a {
@@ -30,3 +30,4 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }
+
