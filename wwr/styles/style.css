@@ -30,6 +30,11 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }
-
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
 
 
