@@ -1,6 +1,6 @@
 
 h1 {
-    color: orange;
+    color: rgb(246, 255, 0);
 } 
 
 #background {
@@ -16,7 +16,7 @@ nav a:hover {
     background-color: black;
     color: #d9c2a3;
 }
-img id {
+header/ a id {
     width: 80px;
 }
 nav a {
@@ -30,8 +30,5 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }
-img id{
-    display:block;
-    margin:auto;
-    }
+
 
