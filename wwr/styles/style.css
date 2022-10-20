@@ -4,6 +4,7 @@ h1 {
     text-align: center;
 } 
 #background {
+    background-color: #a9ad7c;
     height: 725px;
 }
 body {
@@ -34,13 +35,13 @@ nav a {
     text-decoration: none;
 }     
 footer {
-    font-size: 1 em;
+    font-size: 1. em;
     color: #dabd30;
     background-color:rgba(33, 50, 20, 0.7);
     text-align: left;
 }    
 footer p a:hover {
-    font-size: 1 em;
+    font-size: 1. em;
     color: #dabd30;
     background-color:rgba(33, 50, 20, 0.7);
     text-align: left;
@@ -56,6 +57,6 @@ footer p a:hover {
     background-color:rgba(33, 50, 20, 0.7);
     text-align: center;
 }
-.mountains {border:4px solid #1b6b6f; padding:15px;}
+.mountains {border:4px solid #1b6b6f; padding:15px; text-align: left;}
 
-.hero-box.hero-img {border:4px solid #1b6b6f; padding:15px;}
+.hero.hero-img {border:4px solid #1b6b6f; padding:15px;}
