@@ -1,23 +1,32 @@
 
 h1 {
-    color: rgb(246, 255, 0);
+    color: rgb(23, 23, 10);
+    text-align: center;
 } 
-
 #background {
     height: 725px;
 }
 body {
     background-color: #fcfbfb; 
+    text-align: center;
 }
 header {
-    background-color:rgba(20,30,13, .7);
+    background-color:rgba(33, 50, 20, 0.7);
+    text-align: left;
 }
 nav a:hover {
     background-color: black;
     color: #d9c2a3;
 }
-img class {
+.logo {
     width: 80px;
+}
+.hero-box {
+    width: 1600px;
+}
+
+.hero-img {
+    width: 1600px;
 }
 nav a {
     text-align: center;
@@ -25,16 +34,24 @@ nav a {
     text-decoration: none;
 }     
 footer {
-    font-size: 1.2em;
+    font-size: 1 em;
+    color: #dabd30;
+    background-color:rgba(33, 50, 20, 0.7);
+    text-align: left;
 }    
 footer p a:hover {
-    text-decoration: underline;
+    font-size: 1 em;
+    color: #dabd30;
+    background-color:rgba(33, 50, 20, 0.7);
+    text-align: left;
 }
-.center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
-  }
+.class{
+    text-decoration: underline;
+    text-align: left;
+}
 
-
+.msg {
+    font-size: 1em;
+    color: #e3e1d6;
+    background-color:rgba(33, 50, 20, 0.7);
+    text-align: center;
