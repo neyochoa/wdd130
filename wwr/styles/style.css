@@ -45,12 +45,14 @@ footer {
     color: #dabd30;
     background-color:rgba(33, 50, 20, 0.7);
     text-align: left;
+    
 }    
 footer p a:hover {
     font-size: 1. em;
     color: #dabd30;
     background-color:rgba(33, 50, 20, 0.7);
     text-align: left;
+    
 }
 .class{
     text-decoration: underline;
@@ -93,6 +95,11 @@ main section img {
     }
 .mountains {
     text-align: left;
+
+.background {
+    text-align: center;
+    padding: 35px
+      }
 
 
 
