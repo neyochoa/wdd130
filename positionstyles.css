@@ -43,6 +43,7 @@
   width: 100px; 
   height: 100px; 
   background-color: red; 
+  position: static;
   
 } 
 .green2 { 
@@ -51,7 +52,7 @@
   background-color: green; 
   margin-top: 50px;
   margin-left: -525px;
-
+  position: static;
 }
 .yellow2 {
   width: 100px; 
@@ -59,14 +60,14 @@
   background-color: gold; 
   margin-top: -60px;
   margin-left: 100px;
-  
+  position: static;
 } 
 .blue2 {
   width: 100px; 
   height: 100px; 
   background-color: blue; 
   margin-left: -430px;
-  
+  position: static;
 } 
 /* Activity 3 styles */ 
 .content3 {
@@ -199,7 +200,7 @@
   width: 300px; 
   height: 300px; 
   background-color: blue; 
-  margin-top : -300px;
+  margin-top : -350px;
   margin-left : -350px;
 } 
 
