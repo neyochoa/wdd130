@@ -129,9 +129,7 @@ nav {
     z-index: -1;
 }
 
-.card-img, .mountains {
-    width: 100%;
-}
+
 
 .rivers-card {
     grid-column: 2/4;
