@@ -59,10 +59,10 @@ body {
   font-family: Raleway, Arial, Helvetica, sans-serif;
   font-size: 22px;
   margin: 0;
-  padding: 2;
+  padding: 2px;
 }
 h2 {
-  margin: 2;
+  margin: 2px;
 }
 nav a {
   text-decoration: none;
@@ -89,7 +89,7 @@ main section img {
 header {
   display: grid;
   grid-template-columns: 150px auto;
-  background-color:
+  background-color:#59a8a6
 }
 
 nav {
